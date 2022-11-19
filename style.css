@@ -250,6 +250,7 @@ html {
   align-items: center;
   justify-content: space-between;
   padding-bottom: 20px;
+	padding-top: 8px;
   height: 40%;
 }
 
