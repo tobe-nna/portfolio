@@ -235,7 +235,7 @@ html {
   flex: 1;
   padding: 4vw 4.5vw 6vw;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   background: linear-gradient(to right bottom, #323941, #061018);
   position: relative;
   top: 50%;
