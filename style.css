@@ -213,6 +213,10 @@ html {
   height: 16%;
 }
 
+.main-content #top {
+  height: 11%;
+}
+
 .btn {
   position: absolute;
   
