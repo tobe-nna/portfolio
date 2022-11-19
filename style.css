@@ -425,7 +425,7 @@ h1 + span {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 10%;
+  height: 5%;
   position: fixed;
   bottom: 4%;
   width: 95%;
