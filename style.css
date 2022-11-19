@@ -340,7 +340,7 @@ h1 + span {
 .slideshow-container {
   margin-top: 10vw;
   overflow: hidden;
-  height: 55vmax;
+  height: 50vmax;
   position: relative;
   
 }
